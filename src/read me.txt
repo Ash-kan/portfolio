@@ -1,0 +1,4 @@
+ - https://github.com/FortAwesome/react-fontawesome
+ - https://reactstrap.github.io/
+ 
+install these in the npm
